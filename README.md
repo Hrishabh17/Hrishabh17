@@ -23,6 +23,7 @@
 ### <p align='center'>Skills and Technology I'm interested  in</p>
 
 <div width='50%' align="center">
+  <div align="center">
     <div align="center">
         <div align="center">
             <div align="center">
@@ -48,12 +49,18 @@
             <img width='60' padding='3px' src='https://user-images.githubusercontent.com/74908943/205477194-3052c447-b76e-44a8-9a08-85fcb49458d0.svg' alt='React'></img>
             <img width='60' padding='3px' src='https://user-images.githubusercontent.com/74908943/205478321-4289019f-7b5c-4212-a18b-71f1590e9e1c.svg' alt='mongo-db'></img>
             <img width='60' padding='3px' src='https://user-images.githubusercontent.com/74908943/205478327-d610a486-6e54-4f1c-835b-913223b99387.svg' alt='Firebase'></img>
-            <img width='60' padding='3px' src='https://user-images.githubusercontent.com/74908943/205477197-979b70df-20af-4b21-ab2a-4269f0478f35.svg' alt='Firebase'></img>
         </code> <br>
     </div>
+    <code>
+            <img width='60' padding='3px' src='https://user-images.githubusercontent.com/74908943/205493451-5423399a-d83d-41a1-be97-2880c2e1c9c7.svg' alt='AWS'></img>
+            <img width='60' padding='3px' src='https://user-images.githubusercontent.com/74908943/205493445-2c5448d2-ac58-45e0-bc6c-3122e59317fb.svg' alt='Azure'></img>
+            <img width='60' padding='3px' src='https://user-images.githubusercontent.com/74908943/205493457-5cef6ae0-4825-44d4-836e-f5c4b1e857f4.svg' alt='Git'></img>
+            <img width='60' padding='3px' src='https://user-images.githubusercontent.com/74908943/205493468-771bb80c-c3a6-4512-a0c2-326cc4b0b1bc.svg' alt='Heroku'></img>           
+            <img width='60' padding='3px' src='https://user-images.githubusercontent.com/74908943/205493475-8cc7b69a-fe25-4bb1-b2cc-d9b9d7b65fe4.svg' alt='Docker'></img>
+            <img width='60' padding='3px' src='https://user-images.githubusercontent.com/74908943/205493476-69ba8af3-ec5d-4d17-a57d-b8a3fcabdcf8.svg' alt='Tailwind'></img>
+        </code> <br>
 </div>
-
-
+</div>
 
 # 
  
