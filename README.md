@@ -12,7 +12,7 @@
 
 #
 
-### Follow me on
+### Connect with me on
 <a href='https://twitter.com/ItsHrishabh'><img width='40' src='https://user-images.githubusercontent.com/74908943/205478744-1d2bfaf6-9b7e-47cc-a2a0-8ba37ec469de.svg' alt='Twitter'></img></a>
 <a href='https://www.linkedin.com/in/hrishabh-tiwari/'><img width='30' src='https://user-images.githubusercontent.com/74908943/205478746-44bfae32-a94b-4c36-b3fe-2e92aed16b60.svg' alt='Java'></img></a>
 
