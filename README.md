@@ -4,7 +4,7 @@
 
   ### **Hrishabh Tiwari** 
 
-<p><i>Computer Science Undergrad • ML/AI practictioner <br> Full Stack Developer</i></p>
+<p><i>Computer Science Undergrad • ML/AI practitioner  <br> Full Stack Developer</i></p>
 
 #
 
