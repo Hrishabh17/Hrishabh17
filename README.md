@@ -8,7 +8,7 @@
 
 #
 
-#### Apart From Coding, I do write blogs commemorating the fallen soldiers of the Indian Armed Forces. If you're interested, do checkout <i>https://knowyourheroes99.wixsite.com/blogs
+#### Apart From Coding, I do write blogs commemorating the fallen soldiers of the Indian Armed Forces. If you're interested, do checkout <i>https://knowyourheroes.in/
 
 #
 
