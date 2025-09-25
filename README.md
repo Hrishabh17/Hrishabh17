@@ -1,10 +1,9 @@
-<img width='55%' align='right' src='https://user-images.githubusercontent.com/74908943/205475877-477199bf-c8a3-4e7c-bba0-5c21e14da7c4.png' alt='a man sitting in chair gazing curiously at the laptop'></img>
+<!-- <img width='55%' align='right' src='https://user-images.githubusercontent.com/74908943/205475877-477199bf-c8a3-4e7c-bba0-5c21e14da7c4.png' alt='a man sitting in chair gazing curiously at the laptop'></img> -->
 
-### Hi, I'm Hrishabh👋 👨‍💻
+### 👋 Hi, I'm Hrishabh
 
-  ### **Hrishabh Tiwari** 
-
-<p><i>Software Developer</i></p>
+**Software Engineer at [Fyle](https://www.fylehq.com/) (now part of [Sage](https://www.sage.com/))**  
+I work on accounting integrations across the Sage ecosystem (Sage Intacct, Sage 300 CRE, Sage 50 US), QuickBooks, Xero, NetSuite.
 
 #
 
